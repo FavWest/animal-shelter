@@ -1,8 +1,15 @@
 .column {
   float: left;
   width: 30%;
+  background-color: cyan;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+  border: 10px solid orange;
 }
 
 img {
   width: 30%;
+  margin: auto;
+  display: block;
 }
